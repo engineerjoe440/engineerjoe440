@@ -1,16 +1,21 @@
-### Hi there 👋
+# Joe Stanley
 
-<!--
-**engineerjoe440/engineerjoe440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young engineer focusing in embedded programming and Linux systems. Working for Schweitzer Engineering Laboratories,
+I do programming in Python and IEC 61131-3 quite often.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here's what I worked on this week...
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+### Big Projects:
+
+- (ElectricPy)[https://github.com/engineerjoe440/ElectricPy] (documentation)[https://engineerjoe440.github.io/ElectricPy/]
+- (KRNC Apps)[https://github.com/engineerjoe440/KRNCApps]
+- (SELProtoPy)[https://github.com/engineerjoe440/sel-proto-py] (documentation)[https://engineerjoe440.github.io/sel-proto-py/]
+
+
+### 📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=engineerjoe440&show_icons=true&theme=gotham" alt="engineerjoe440" />
