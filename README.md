@@ -11,9 +11,9 @@ I do programming in Python and IEC 61131-3 quite often.
 
 ### Big Projects:
 
-- (ElectricPy)[https://github.com/engineerjoe440/ElectricPy] (documentation)[https://engineerjoe440.github.io/ElectricPy/]
-- (KRNC Apps)[https://github.com/engineerjoe440/KRNCApps]
-- (SELProtoPy)[https://github.com/engineerjoe440/sel-proto-py] (documentation)[https://engineerjoe440.github.io/sel-proto-py/]
+- [ElectricPy](https://github.com/engineerjoe440/ElectricPy) [documentation](https://engineerjoe440.github.io/ElectricPy/)
+- [KRNC Apps](https://github.com/engineerjoe440/KRNCApps)
+- [SELProtoPy](https://github.com/engineerjoe440/sel-proto-py) [documentation](https://engineerjoe440.github.io/sel-proto-py/)
 
 
 ### 📈 My GitHub Stats
