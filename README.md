@@ -4,7 +4,7 @@ I'm a young engineer focusing in embedded programming and Linux systems. Working
 I do programming in Python and IEC 61131-3 quite often.
 
 ***Check out my blog!***
-Go visit it at: [](blog.stanleysolutionsnw.com)
+Go visit it at: blog.stanleysolutionsnw.com
 
 
 ### Big Open Source Projects:
