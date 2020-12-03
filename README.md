@@ -1,7 +1,8 @@
 # Joe Stanley
 
 I'm a young engineer focusing in embedded programming and Linux systems. Working for Schweitzer Engineering Laboratories,
-I do programming in Python and IEC 61131-3 quite often.
+I program in Python and IEC 61131-3 quite often, but I dabble in a fair amount of other languates too! Not to mention I
+lend my hand to some hardware design.
 
 ***Check out my blog!***
 
