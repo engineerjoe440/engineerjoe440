@@ -14,6 +14,7 @@ Go visit it at: [blog.stanleysolutionsnw.com](https://blog.stanleysolutionsnw.co
 - [ElectricPy](https://github.com/engineerjoe440/ElectricPy) - [documentation](https://engineerjoe440.github.io/ElectricPy/)
 - [KRNC Apps](https://github.com/engineerjoe440/KRNCApps)
 - [SELProtoPy](https://github.com/engineerjoe440/sel-proto-py) - [documentation](https://engineerjoe440.github.io/sel-proto-py/)
+- [PyCEV](https://github.com/engineerjoe440/pycev) - [documentation](https://engineerjoe440.github.io/pycev/)
 
 
 ### My GitHub Stats:
