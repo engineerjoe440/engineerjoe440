@@ -9,7 +9,7 @@ lend my hand to some hardware design.
 Go visit it at: [blog.stanleysolutionsnw.com](https://blog.stanleysolutionsnw.com)
 
 
-### Big Open Source Projects: <img src="https://raw.githubusercontent.com/engineerjoe440/engineerjoe440/main/Images/StanleySolutions.svg" width="250" alt="logo" align="right">
+### Big Open Source Projects: <img src="https://raw.githubusercontent.com/engineerjoe440/engineerjoe440/main/Images/StanleySolutions.png" width="250" alt="logo" align="right">
 
 - [ElectricPy](https://github.com/engineerjoe440/ElectricPy) - [documentation](https://engineerjoe440.github.io/ElectricPy/) - ![ElectricPy Tests (pytest)](https://github.com/engineerjoe440/ElectricPy/workflows/pytest/badge.svg)
 - [KRNC Apps](https://github.com/engineerjoe440/KRNCApps)
