@@ -14,7 +14,7 @@ Go visit it at: [blog.stanleysolutionsnw.com](https://blog.stanleysolutionsnw.co
 - [ElectricPy](https://github.com/engineerjoe440/ElectricPy) - [documentation](https://engineerjoe440.github.io/ElectricPy/) - ![ElectricPy Tests (pytest)](https://github.com/engineerjoe440/ElectricPy/workflows/pytest/badge.svg)
 - [KRNC Apps](https://github.com/engineerjoe440/KRNCApps)
 - [SELProtoPy](https://github.com/engineerjoe440/selprotopy) - [documentation](https://engineerjoe440.github.io/selprotopy/) - [![Build Status](http://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=SELProtoPy-CI)](http://jenkins.stanleysolutionsnw.com/job/SELProtoPy-CI/)
-- [PyCEV](https://github.com/engineerjoe440/pycev) - [documentation](https://engineerjoe440.github.io/pycev/) - [![Build Status](http://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=PyCEV-CI)](http://jenkins.stanleysolutionsnw.com/job/PyCEV-CI/)
+- [PyCEV](https://github.com/engineerjoe440/pycev) - [documentation](https://engineerjoe440.github.io/pycev/) - [![Build Status](http://jenkins.stanleysolutionsnw.com/job/PyCEV-CI/badge/icon)](http://jenkins.stanleysolutionsnw.com/job/PyCEV-CI/)
 
 
 ### My GitHub Stats:
