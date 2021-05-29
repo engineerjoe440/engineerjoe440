@@ -7,7 +7,11 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Something will populate here!](https://blog.stanleysolutionsnw.com)
+- [Spam the VBAN for Non-Stop Audio](https://engineerjoe440.github.io/stanley-solutions-blog/spam-the-vban-for-non-stop-audio.html)
+- [Servers in the Basement...](https://engineerjoe440.github.io/stanley-solutions-blog/jenkins-servers-in-the-basement.html)
+- [CI/CD On Industrial Grade Hardware](https://engineerjoe440.github.io/stanley-solutions-blog/jenkins-on-sel-industrial-hardware.html)
+- [GitLab, Jenkins, Python, and the Raspberry Pi!](https://engineerjoe440.github.io/stanley-solutions-blog/gitlab-jenkins-and-the-rpi.html)
+- [Synchronizing Home Audio with the Raspberry Pi and VBAN](https://engineerjoe440.github.io/stanley-solutions-blog/networked-audio-using-vban-and-rpi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
