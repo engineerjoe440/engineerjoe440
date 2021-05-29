@@ -24,7 +24,7 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 ### My GitHub Stats:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=engineerjoe440&show_icons=true&theme=gotham" alt="engineerjoe440" />
-<img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerjoe440&layout=compact&hide_border=true&theme=gotham" />
+<img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerjoe440&layout=compact&theme=gotham" />
 
 ##
 <p align="center"> 
