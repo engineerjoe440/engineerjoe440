@@ -7,11 +7,11 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tech Podcasts Galore!](https://engineerjoe440.github.io/stanley-solutions-blog/tech-podcasts-galore.html)
 - [Hearing Fires While Seeing Smoke](https://engineerjoe440.github.io/stanley-solutions-blog/hearing-fires-while-seeing-smoke.html)
 - [Demonstrating Electricity](https://engineerjoe440.github.io/stanley-solutions-blog/demonstrating-electricity.html)
 - [Powering My Own Relaxation](https://engineerjoe440.github.io/stanley-solutions-blog/powering-my-own-relaxation.html)
 - [Spam the VBAN for Non-Stop Audio](https://engineerjoe440.github.io/stanley-solutions-blog/spam-the-vban-for-non-stop-audio.html)
-- [Servers in the Basement...](https://engineerjoe440.github.io/stanley-solutions-blog/jenkins-servers-in-the-basement.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
