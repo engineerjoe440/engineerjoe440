@@ -7,11 +7,11 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DJ Joe Playlister](https://engineerjoe440.github.io/stanley-solutions-blog/dj-joe-playlister.html)
 - [Why do I Self-Host?](https://engineerjoe440.github.io/stanley-solutions-blog/why-do-i-selfhost.html)
 - [Just Some Thoghts on a Song](https://engineerjoe440.github.io/stanley-solutions-blog/just-some-thoghts-on-a-song.html)
 - [A Better Way to Integrate with VoiceMeeter?](https://engineerjoe440.github.io/stanley-solutions-blog/a-better-way-to-integrate-with-voicemeeter.html)
 - [Tech Podcasts Galore!](https://engineerjoe440.github.io/stanley-solutions-blog/tech-podcasts-galore.html)
-- [Hearing Fires While Seeing Smoke](https://engineerjoe440.github.io/stanley-solutions-blog/hearing-fires-while-seeing-smoke.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
