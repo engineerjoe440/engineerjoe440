@@ -7,11 +7,11 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automagic Test Websites](https://engineerjoe440.github.io/stanley-solutions-blog/automagic-test-websites.html)
 - [Ideas for Swine Education](https://engineerjoe440.github.io/stanley-solutions-blog/ideas-for-swine-education.html)
 - [Bringing Light to the... Living Room?](https://engineerjoe440.github.io/stanley-solutions-blog/bringing-light-to-the-living-room.html)
 - [Sensing Fire in a World Without Water](https://engineerjoe440.github.io/stanley-solutions-blog/sensing-fire-in-a-world-without-water.html)
 - [Using Python to Provide Simple Photo Connections for Youth](https://engineerjoe440.github.io/stanley-solutions-blog/using-python-to-provide-simple-photo-connections-for-youth.html)
-- [Adding PlantUML to Pelican Without Installing Java?](https://engineerjoe440.github.io/stanley-solutions-blog/adding-plantuml-to-pelican-without-installing-java.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
