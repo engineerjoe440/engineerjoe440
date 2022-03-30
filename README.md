@@ -7,11 +7,11 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Error Pages for Education](https://engineerjoe440.github.io/stanley-solutions-blog/error-pages-for-education.html)
 - [What is Tasmota, Anyway?](https://engineerjoe440.github.io/stanley-solutions-blog/what-is-tasmota-anyway.html)
 - [Automagic Test Websites](https://engineerjoe440.github.io/stanley-solutions-blog/automagic-test-websites.html)
 - [Ideas for Swine Education](https://engineerjoe440.github.io/stanley-solutions-blog/ideas-for-swine-education.html)
 - [Bringing Light to the... Living Room?](https://engineerjoe440.github.io/stanley-solutions-blog/bringing-light-to-the-living-room.html)
-- [Sensing Fire in a World Without Water](https://engineerjoe440.github.io/stanley-solutions-blog/sensing-fire-in-a-world-without-water.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
