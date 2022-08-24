@@ -7,11 +7,11 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RheoRailroad - A Digital Toy Train Set](https://engineerjoe440.github.io/stanley-solutions-blog/rheo-railroad-a-digital-toy-train.html)
 - [Making Feline Stink a Distant Memory](https://engineerjoe440.github.io/stanley-solutions-blog/making-feline-stink-a-distant-memory.html)
 - [Photos in the Nick of Time at STAC](https://engineerjoe440.github.io/stanley-solutions-blog/photos-in-the-nick-of-time-at-stac.html)
 - [Making Progress with Capstones](https://engineerjoe440.github.io/stanley-solutions-blog/making-progress-with-capstones.html)
 - [Home Automation... Condensed!](https://engineerjoe440.github.io/stanley-solutions-blog/home-automation-condensed.html)
-- [More Servers in the Basement?](https://engineerjoe440.github.io/stanley-solutions-blog/more-servers-in-the-basement.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
