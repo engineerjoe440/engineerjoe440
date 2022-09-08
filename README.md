@@ -17,12 +17,13 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 ---
 
 
-### Big Open Source Projects: <img src="https://raw.githubusercontent.com/engineerjoe440/engineerjoe440/main/Images/StanleySolutions.png" width="250" alt="logo" align="right">
+### Big Open Source Projects: <a href="https://stanleysolutionsnw.com"><img src="https://raw.githubusercontent.com/engineerjoe440/engineerjoe440/main/Images/StanleySolutions.png" width="250" alt="logo" align="right"></a>
 
 - [ElectricPy](https://github.com/engineerjoe440/ElectricPy) - [documentation](https://engineerjoe440.github.io/ElectricPy/) - ![ElectricPy Tests (pytest)](https://github.com/engineerjoe440/ElectricPy/workflows/pytest/badge.svg)
 - [KRNC Apps](https://github.com/engineerjoe440/KRNCApps)
 - [SELProtoPy](https://github.com/engineerjoe440/selprotopy) - [documentation](https://engineerjoe440.github.io/selprotopy/) - [![Build Status](http://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=SELProtoPy-CI)](http://jenkins.stanleysolutionsnw.com/job/SELProtoPy-CI/)
-- [PyCEV](https://github.com/engineerjoe440/pycev) - [documentation](https://engineerjoe440.github.io/pycev/) - [![Build Status](http://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=PyCEV-CI)](http://jenkins.stanleysolutionsnw.com/job/PyCEV-CI/)
+- [PyCEV](https://github.com/engineerjoe440/pycev) - [documentation](https://engineerjoe440.github.io/pycev/) - [![Build Status](https://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=PyCEV-Functional-Test%2Fmain)](https://jenkins.stanleysolutionsnw.com/job/PyCEV-Functional-Test/job/main/)
+- [Schemdraw-Markdown](https://github.com/engineerjoe440/schemdraw-markdown) - [blog-post](https://blog.stanleysolutionsnw.com/making-drawing-circuits-in-markdown-a-cinch.html)
 
 
 ### My GitHub Stats:
