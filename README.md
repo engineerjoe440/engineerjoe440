@@ -7,11 +7,11 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting Jenkins Right Away in Winders](https://engineerjoe440.github.io/stanley-solutions-blog/starting-jenkins-right-away-in-winders.html)
+- [Finding Broken Blog Links](https://engineerjoe440.github.io/stanley-solutions-blog/finding-broken-blog-links.html)
 - [Mount St. Helens Adventures](https://engineerjoe440.github.io/stanley-solutions-blog/mt-st-helens-adventures.html)
 - [Making Drawing Circuits in Markdown a Cinch!](https://engineerjoe440.github.io/stanley-solutions-blog/making-drawing-circuits-in-markdown-a-cinch.html)
 - [Scraping the ISP Router to Support Self-Hosting](https://engineerjoe440.github.io/stanley-solutions-blog/scraping-the-isp-router-to-support-selfhosting.html)
-- [RheoRailroad - A Digital Toy Train Set](https://engineerjoe440.github.io/stanley-solutions-blog/rheo-railroad-a-digital-toy-train.html)
-- [Making Feline Stink a Distant Memory](https://engineerjoe440.github.io/stanley-solutions-blog/making-feline-stink-a-distant-memory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
