@@ -7,11 +7,11 @@ but I dabble in a fair amount of other languates too! Not to mention I lend my h
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Giving Up on Low-Level Audio in Linux](https://engineerjoe440.github.io/stanley-solutions-blog/giving-up-on-low-level-linux-audio.html)
 - [Adding Radon Sensors to Home Assistant](https://engineerjoe440.github.io/stanley-solutions-blog/adding-radon-sensors-to-homeassistant.html)
 - [Installing VBAN on Linux Systems with Pipewire](https://engineerjoe440.github.io/stanley-solutions-blog/installing-vban-on-linux-with-pipewire.html)
 - [Reverse Proxying to two Git Servers](https://engineerjoe440.github.io/stanley-solutions-blog/reverse-proxying-to-two-git-servers.html)
 - [My Way of Intalling Python on Windows in 2022](https://engineerjoe440.github.io/stanley-solutions-blog/my-way-of-installing-python-on-windows-in-2022.html)
-- [Spooky Scary Porch Projects](https://engineerjoe440.github.io/stanley-solutions-blog/spooky-scary-porch-projects.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
