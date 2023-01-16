@@ -24,7 +24,7 @@ For more information about me and what I do, visit [my 🌐 website](https://sta
 - [ElectricPy](https://github.com/engineerjoe440/ElectricPy) - [documentation](https://electricpy.readthedocs.io/en/latest/) - ![ElectricPy Tests (pytest)](https://github.com/engineerjoe440/ElectricPy/workflows/pytest/badge.svg)
 - [KRNC Universal Song Barn Manager](https://gitlab.stanleysolutionsnw.com/krnc/usb-manager)
 - [SELProtoPy](https://github.com/engineerjoe440/selprotopy) - [documentation](https://engineerjoe440.github.io/selprotopy/) - [![Build Status](http://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=SELProtoPy-CI)](http://jenkins.stanleysolutionsnw.com/job/SELProtoPy-CI/)
-- [PyCEV](https://github.com/engineerjoe440/pycev) - [documentation](https://engineerjoe440.github.io/pycev/) - [![Build Status](https://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=PyCEV-Functional-Test%2Fmain)](https://jenkins.stanleysolutionsnw.com/job/PyCEV-Functional-Test/job/main/)
+- [PyCEV](https://github.com/engineerjoe440/pycev) - [documentation](https://pycev.readthedocs.io/en/latest/) - [![Build Status](https://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=PyCEV-Functional-Test%2Fmain)](https://jenkins.stanleysolutionsnw.com/job/PyCEV-Functional-Test/job/main/)
 - [Schemdraw-Markdown](https://github.com/engineerjoe440/schemdraw-markdown) - [blog-post](https://blog.stanleysolutionsnw.com/making-drawing-circuits-in-markdown-a-cinch.html)
 
 
