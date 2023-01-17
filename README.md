@@ -3,7 +3,7 @@
 I'm a young engineer focusing in embedded programming and Linux systems. I program in Python and IEC 61131-3 quite often,
 but I dabble in a fair amount of other languates too! Not to mention I lend my hand to some hardware design on ocasion.
 
-For more information about me and what I do, visit [my 🌐 website](https://stanleysolutionsnw.com).
+For more information about me and what I do, visit [my 🌐 website](https://stanleysolutionsnw.com/).
 
 ---
 
