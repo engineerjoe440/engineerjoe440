@@ -7,7 +7,7 @@ For more information about me and what I do, visit [my 🌐 website](https://sta
 
 ---
 
-## 📕 Latest [Blog](https://blog.stanleysolutionsns.com) Posts
+## 📕 Latest [Blog](https://blog.stanleysolutionsnw.com) Posts
 <!-- BLOG-POST-LIST:START -->
 - [Packaging Single File Python Projects](https://engineerjoe440.github.io/stanley-solutions-blog/packaging-single-file-python-projects.html)
 - [Python, Pianobar, and MQTT?](https://engineerjoe440.github.io/stanley-solutions-blog/python-pianobar-and-mqtt.html)
