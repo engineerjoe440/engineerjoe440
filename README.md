@@ -9,11 +9,11 @@ For more information about me and what I do, visit [my website 🌐](https://sta
 
 ## 📕 Latest [Blog](https://blog.stanleysolutionsnw.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [Updated Wiki Page for Capstone Projects](https://engineerjoe440.github.io/stanley-solutions-blog/updated-wiki-page-for-capstone-projects.html)
 - [Making Configuration for a Python Application Simple!](https://engineerjoe440.github.io/stanley-solutions-blog/making-configuration-for-a-python-application-simple.html)
 - [Packaging Single File Python Projects](https://engineerjoe440.github.io/stanley-solutions-blog/packaging-single-file-python-projects.html)
 - [Python, Pianobar, and MQTT?](https://engineerjoe440.github.io/stanley-solutions-blog/python-pianobar-and-mqtt.html)
 - [Using Pipewire Link to Bridge the Gaps](https://engineerjoe440.github.io/stanley-solutions-blog/using-pipewire-link-to-bridge-the-gaps.html)
-- [The Ranch &lpar;KRNC&rpar; Gets a Face Lift](https://engineerjoe440.github.io/stanley-solutions-blog/the-ranch-gets-a-face-lift.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
