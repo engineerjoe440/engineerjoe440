@@ -9,11 +9,11 @@ For more information about me and what I do, visit [my website 🌐](https://sta
 
 ## 📕 Latest [Blog](https://blog.stanleysolutionsnw.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Lightning on Demand](https://engineerjoe440.github.io/stanley-solutions-blog/custom-lightning-on-demand.html)
 - [Dissecting Computers for the First Time?](https://engineerjoe440.github.io/stanley-solutions-blog/dissecting-computers-for-the-first-time.html)
 - [KYG 2023](https://engineerjoe440.github.io/stanley-solutions-blog/kyg-2023.html)
 - [Updated Wiki Page for Capstone Projects](https://engineerjoe440.github.io/stanley-solutions-blog/updated-wiki-page-for-capstone-projects.html)
 - [Making Configuration for a Python Application Simple!](https://engineerjoe440.github.io/stanley-solutions-blog/making-configuration-for-a-python-application-simple.html)
-- [Packaging Single File Python Projects](https://engineerjoe440.github.io/stanley-solutions-blog/packaging-single-file-python-projects.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
