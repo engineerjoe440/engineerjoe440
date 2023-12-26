@@ -9,11 +9,11 @@ For more information about me and what I do, visit [my website 🌐](https://sta
 
 ## 📕 Latest [Blog](https://blog.stanleysolutionsnw.com) Posts
 <!-- BLOG-POST-LIST:START -->
-- [How Many Protocols Does it Take to Open a Door?](https://engineerjoe440.github.io/stanley-solutions-blog/how-many-protocols-does-it-take-to-open-a-door.html)
-- [Custom Lightning on Demand](https://engineerjoe440.github.io/stanley-solutions-blog/custom-lightning-on-demand.html)
-- [Dissecting Computers for the First Time?](https://engineerjoe440.github.io/stanley-solutions-blog/dissecting-computers-for-the-first-time.html)
-- [KYG 2023](https://engineerjoe440.github.io/stanley-solutions-blog/kyg-2023.html)
-- [Updated Wiki Page for Capstone Projects](https://engineerjoe440.github.io/stanley-solutions-blog/updated-wiki-page-for-capstone-projects.html)
+- [How Many Protocols Does it Take to Open a Door?](https://blog.stanleysolutionsnw.com/how-many-protocols-does-it-take-to-open-a-door.html)
+- [Custom Lightning on Demand](https://blog.stanleysolutionsnw.com/custom-lightning-on-demand.html)
+- [Dissecting Computers for the First Time?](https://blog.stanleysolutionsnw.com/dissecting-computers-for-the-first-time.html)
+- [KYG 2023](https://blog.stanleysolutionsnw.com/kyg-2023.html)
+- [Updated Wiki Page for Capstone Projects](https://blog.stanleysolutionsnw.com/updated-wiki-page-for-capstone-projects.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
