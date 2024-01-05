@@ -9,11 +9,11 @@ For more information about me and what I do, visit [my website 🌐](https://sta
 
 ## 📕 Latest [Blog](https://blog.stanleysolutionsnw.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding a Subscription System to my Blog](https://blog.stanleysolutionsnw.com/adding-a-subscription-system-to-my-blog.html)
 - [Adding Search to my Pelican Blog Site](https://blog.stanleysolutionsnw.com/adding-search-to-my-pelican-blog-site.html)
 - [How Many Protocols Does it Take to Open a Door?](https://blog.stanleysolutionsnw.com/how-many-protocols-does-it-take-to-open-a-door.html)
 - [Custom Lightning on Demand](https://blog.stanleysolutionsnw.com/custom-lightning-on-demand.html)
 - [Dissecting Computers for the First Time?](https://blog.stanleysolutionsnw.com/dissecting-computers-for-the-first-time.html)
-- [KYG 2023](https://blog.stanleysolutionsnw.com/kyg-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
