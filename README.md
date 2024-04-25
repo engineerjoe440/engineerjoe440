@@ -9,11 +9,11 @@ For more information about me and what I do, visit [my website 🌐](https://sta
 
 ## 📕 Latest [Blog](https://blog.stanleysolutionsnw.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Presenting at LinuxFest Northwest 2024!](https://blog.stanleysolutionsnw.com/presenting-at-linux-fest-northwest-2024.html)
 - [First Time as a Guest Lecturer?](https://blog.stanleysolutionsnw.com/first-time-as-a-guest-lecturer.html)
 - [Electronics Dissection - Amping Up](https://blog.stanleysolutionsnw.com/electronics-dissection-amping-up.html)
 - [TX/RX Swapping Made EZ](https://blog.stanleysolutionsnw.com/tx-rx-swapping-made-ez.html)
 - [The 4-H Lineup &lpar;for Spring, 2024&rpar;](https://blog.stanleysolutionsnw.com/the-4-h-lineup-for-spring-2024.html)
-- [Quick-n-Simple Photo Converter &lpar;for HEIC format&rpar;](https://blog.stanleysolutionsnw.com/quick-n-simple-photo-converter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
