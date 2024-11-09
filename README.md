@@ -9,11 +9,11 @@ For more information about me and what I do, visit [my website 🌐](https://sta
 
 ## 📕 Latest [Blog](https://blog.stanleysolutionsnw.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic Auth without the Hubub in NGINX](https://blog.stanleysolutionsnw.com/basic-auth-without-the-hubub-in-nginx.html)
 - [Making Portable Digital Learning](https://blog.stanleysolutionsnw.com/making-portable-digital-learning.html)
 - [I&#39;m Presenting at LinuxFest Northwest 2024!](https://blog.stanleysolutionsnw.com/presenting-at-linux-fest-northwest-2024.html)
 - [First Time as a Guest Lecturer?](https://blog.stanleysolutionsnw.com/first-time-as-a-guest-lecturer.html)
 - [Electronics Dissection - Amping Up](https://blog.stanleysolutionsnw.com/electronics-dissection-amping-up.html)
-- [TX/RX Swapping Made EZ](https://blog.stanleysolutionsnw.com/tx-rx-swapping-made-ez.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
