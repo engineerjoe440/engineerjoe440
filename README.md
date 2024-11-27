@@ -26,6 +26,7 @@ For more information about me and what I do, visit [my website 🌐](https://sta
 - [SELProtoPy](https://github.com/engineerjoe440/selprotopy) - [documentation](https://selprotopy.readthedocs.io/) - [![Build Status](http://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=SELProtoPy-CI)](http://jenkins.stanleysolutionsnw.com/job/SELProtoPy-CI/)
 - [PyCEV](https://github.com/engineerjoe440/pycev) - [documentation](https://pycev.readthedocs.io/) - [![Build Status](https://jenkins.stanleysolutionsnw.com/buildStatus/icon?job=PyCEV-Functional-Test%2Fmain)](https://jenkins.stanleysolutionsnw.com/job/PyCEV-Functional-Test/job/main/)
 - [Schemdraw-Markdown](https://github.com/engineerjoe440/schemdraw-markdown) - [blog-post](https://blog.stanleysolutionsnw.com/making-drawing-circuits-in-markdown-a-cinch.html)
+- [WordWall](https://github.com/engineerjoe440/wordwall) - [blog-post](https://blog.stanleysolutionsnw.com/a-collaborative-wordcloud-for-teaching.html) - [![Docker image](https://github.com/engineerjoe440/wordwall/actions/workflows/deploy-image.yml/badge.svg)](https://github.com/engineerjoe440/wordwall/actions/workflows/deploy-image.yml)
 
 
 ### My GitHub Stats:
