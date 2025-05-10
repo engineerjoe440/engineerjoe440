@@ -9,11 +9,11 @@ For more information about me and what I do, visit [my website 🌐](https://sta
 
 ## 📕 Latest [Blog](https://blog.stanleysolutionsnw.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [Complex, Calculated Coffee!](https://blog.stanleysolutionsnw.com/complex-calculated-coffee.html)
 - [Jupyter Lab Setup for Electrical Engineers](https://blog.stanleysolutionsnw.com/jupyter-lab-setup-for-electrical-engineers.html)
 - [A Collaborative Word Cloud for Teaching](https://blog.stanleysolutionsnw.com/a-collaborative-wordcloud-for-teaching.html)
 - [Basic Auth without the Hubub in NGINX](https://blog.stanleysolutionsnw.com/basic-auth-without-the-hubub-in-nginx.html)
 - [Making Portable Digital Learning](https://blog.stanleysolutionsnw.com/making-portable-digital-learning.html)
-- [I&#39;m Presenting at LinuxFest Northwest 2024!](https://blog.stanleysolutionsnw.com/presenting-at-linux-fest-northwest-2024.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
