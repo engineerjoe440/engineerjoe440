@@ -9,11 +9,11 @@ For more information about me and what I do, visit [my website 🌐](https://sta
 
 ## 📕 Latest [Blog](https://blog.stanleysolutionsnw.com) Posts
 <!-- BLOG-POST-LIST:START -->
+- [Triggering REAPER Recording from Python](https://blog.stanleysolutionsnw.com/triggering-reaper-recording-from-python.html)
 - [More Python Nonsense](https://blog.stanleysolutionsnw.com/more-python-nonsense.html)
 - [Smello World? For HTTP Requests](https://blog.stanleysolutionsnw.com/smello-world-with-http.html)
 - [Digital Media with Idaho 4-H Youth](https://blog.stanleysolutionsnw.com/digital-media-with-idaho-4h-youth.html)
 - [Complex, Calculated Coffee!](https://blog.stanleysolutionsnw.com/complex-calculated-coffee.html)
-- [Jupyter Lab Setup for Electrical Engineers](https://blog.stanleysolutionsnw.com/jupyter-lab-setup-for-electrical-engineers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
